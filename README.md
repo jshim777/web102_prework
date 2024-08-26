@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [John Shim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -51,14 +51,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-OOZEdiveTRAPpine
-
-6games-container.stats-card15
-
-11seafoamGAMES_JSON
-
-19187800268brain
-
-74FLANNELCLICK
-
-toLocaleString<div>1ivy
